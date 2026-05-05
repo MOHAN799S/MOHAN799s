@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohan%20Lakshman%20Sangidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Mohan+Lakshman;Full+Stack+Developer+(MERN+%2B+Next.js);AI+%2F+ML+Engineer+(BERT+%7C+PyTorch);Published+Researcher+—+IJSRA+2026;Open+to+SDE+%7C+ML+Engineer+Roles" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Mohan+Lakshman;Full+Stack+Developer+(MERN+%2B+Next.js);AI+%2F+ML+Engineer+(BERT+%7C+PyTorch);Published+Researcher+—+IJSRA+2026;Open+to+SDE+%7C+ML+Engineer+Roles)](https://github.com/MOHAN799S)
 
 <br/>
 
@@ -41,10 +39,10 @@ Interests   : Full Stack Dev · AI/ML · NLP · System Design · Open Source
 <div align="center">
 
 **Languages**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 **Frontend**
 
