@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohan+Lakshman+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;B.Tech+CSE+%40+ACET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohan+Lakshman+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Fresher+Software+Developer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=MOHAN799S&style=for-the-badge&color=6E40C9" alt="Profile Views" />
 
@@ -11,10 +11,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **B.Tech CSE** student at Aditya College of Engineering & Technology, Surampalem
+- - 🎓 **B.Tech CSE** Graduate — Aditya College of Engineering & Technology, Surampalem (2026)
 - 🏛️ Built **Civic Connect** — an AI-powered public grievance platform *(Published in IJSRA 2026)*
 - 🤖 Passionate about **AI/ML**, **Full Stack Development**, and building things that matter
-- 🚀 Currently exploring **LLMs**, **MLOps**, and **scalable backend systems**
+- - 🚀 Fresher Software Developer — open to full-stack and AI/ML roles
 - 📍 Andhra Pradesh, India
 
 ---
